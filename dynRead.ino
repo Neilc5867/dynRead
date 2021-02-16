@@ -26,5 +26,7 @@ void loop(){
     if(dyn != 0){
       Serial.println(dyn, DEC);
     }
+	
+	//TODO add logic for LED indicator
 }//end loop
 
